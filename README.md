@@ -7,9 +7,10 @@ Deep Thoughts is a social media like app where users can create thoughts, add re
 
 ## Table of Contents
 - [Technology Used](#technology-used)
+- [Usage](#usage)
 - [Contact](#contact)
-- [Links](#links)
 - [License](#license)
+- [Installation](#installation)
 
 
 ## Technology Used
@@ -24,14 +25,13 @@ Deep Thoughts is a social media like app where users can create thoughts, add re
 ![Apollo Server](https://img.shields.io/badge/Apollo%20Server-8B89CC?style=for-the-badge)   
  
 ## Installation
-The user can clone the repository from GitHub and install dependencies. To run server, run npm start.
+The user can clone the repository from GitHub and install dependencies. To run server, run npm run develop.
 
 ## Usage 
-This application will allow users to create new transactions whether it's a deposit or withdraw, with or without internet connection. 
 View deployed application on [Heroku](https://social-deep-thoughts.herokuapp.com/)
 
 ## Questions
-If you have any Questions, reach me at [Email](muk.ahmed13@gmail.com), [Github](https://github.com/)
+If you have any Questions, reach me at [Email](muk.ahmed13@gmail.com) OR [Github](https://github.com/)
 
 ## License  
 <a href=./LICENSE>![License](https://img.shields.io/badge/License%3A-MIT-green.svg)</a>     
