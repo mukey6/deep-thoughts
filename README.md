@@ -28,7 +28,7 @@ The user can clone the repository from GitHub and install dependencies. To run s
 
 ## Usage 
 This application will allow users to create new transactions whether it's a deposit or withdraw, with or without internet connection. 
-View deployed application on [Heroku](https://deep-thoughts.herokuapp.com/)
+View deployed application on [Heroku](https://social-deep-thoughts.herokuapp.com/)
 
 ## Questions
 If you have any Questions, reach me at [Email](muk.ahmed13@gmail.com), [Github](https://github.com/)
